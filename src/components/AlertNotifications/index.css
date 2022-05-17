@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.description {
+  color: #64748b;
+}
+
+.icon {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  height: 30px;
+  width: 30px;
+}
+
+.Error-color {
+  color: #ff0b37;
+}
+
+.success-color {
+  color: #2dca73;
+}
+
+.warning-color {
+  color: #ffb800;
+}
+
+.info-color {
+  color: #0f81e0;
+}
